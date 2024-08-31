@@ -1,0 +1,36 @@
+<svg width="1920" height="800" viewBox="0 0 1920 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1144 258C1144 356.307 1223.69 436 1322 436C1420.31 436 1500 356.307 1500 258C1500 159.693 1420.31 80 1322 80C1223.69 80 1144 159.693 1144 258ZM1322 0C1179.51 0 1064 115.511 1064 258C1064 400.489 1179.51 516 1322 516C1464.49 516 1580 400.489 1580 258C1580 115.511 1464.49 0 1322 0Z" fill="url(#paint0_linear_72_630)"/>
+<rect x="332" y="116" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="332" y="338" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="332" y="412" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="406" y="190" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="406" y="264" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="406" y="412" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="406" y="486" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="480" y="116" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="480" y="190" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="480" y="264" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="480" y="412" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="554" y="190" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="554" y="264" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="554" y="338" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="554" y="412" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="554" y="486" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="628" y="116" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="628" y="190" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="628" y="264" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="628" y="338" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="628" y="412" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="628" y="486" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="702" y="190" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="702" y="264" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="702" y="338" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="702" y="412" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<rect x="702" y="486" width="42" height="42" rx="21" fill="#EAEFF2"/>
+<defs>
+<linearGradient id="paint0_linear_72_630" x1="1322" y1="0" x2="1322" y2="516" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D5FFD9"/>
+<stop offset="1" stop-color="#BEEBFC"/>
+</linearGradient>
+</defs>
+</svg>
